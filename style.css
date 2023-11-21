@@ -22,3 +22,9 @@ p{
     display: block;
     margin: auto;
 }
+
+#elenco{
+    width: 30% ; /*largura*/
+    display: block;
+    margin: auto;
+}
