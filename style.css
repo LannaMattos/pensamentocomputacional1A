@@ -24,7 +24,7 @@ p{
 }
 
 #elenco{
-    width: 50% ; /*largura*/
+    width: 100% ; /*largura*/
     display: block;
     margin: auto;
 }
