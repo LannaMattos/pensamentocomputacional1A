@@ -1,7 +1,8 @@
-#text0-principal{
-    background-color: sienna;
-    text-align: center;
-    font-size: 55px
+body{ 
+    background-color: sienna;;
+    margin: 30px;
+    padding: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'
 }
 
 h1 {
