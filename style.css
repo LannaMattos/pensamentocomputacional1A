@@ -13,3 +13,9 @@ p{
     text-align: justify;
     font-size: 20px;
 }
+
+#HP{
+    width: 30% ; /*largura*/
+    display: block;
+    margin: auto;
+}
